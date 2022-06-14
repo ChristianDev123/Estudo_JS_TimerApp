@@ -15,21 +15,22 @@ Link Deply: <https://christiandev123.github.io/Estudo_JS_TimerApp/>
 No CMD do Windows ou no Bash do Linux Siga os Seguintes Passos:
 
 ```cmd
-    git clone https://github.com/ChristianDev123/Estudo_CSharp_Imagem-Database.git
+    git clone https://github.com/ChristianDev123/Estudo_JS_TimerApp.git
 ```
 ```cmd
-    cd Estudo_CSharp_Imagem-Database
+    cd Estudo_JS_TimerApp
+```
+```cmd
+    code .
 ```
 
-> Certifique-se de que tem instalado o Visual Studio, SDK do Windows e todas ferramentas necessárias para desenvolvimento no framework Windows Forms
+> Certifique-se de que tem instalado o Visual Studio Code, e a extensão Live Server.
 
-- Abra o Visual Studio;
-- Selecione 'Abrir um Projeto ou uma solução';
-- Selecione o .sln do projeto;
-- Ao abrir, clique em iniciar;
+- <kbd>CTRL</kbd> + <kbd>Shift</kbd> + <kbd>p</kbd> ;
+- Selecione 'Open With Live Server';
 
 ## Tecnologias utilizadas:
 
-- C# (Dotnet);
-- Biblioteca .NET;
-- Windows Form; 
+- HTML5;
+- CSS3;
+- Java Script;
